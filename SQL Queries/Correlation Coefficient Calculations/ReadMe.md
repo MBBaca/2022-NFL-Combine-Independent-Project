@@ -1,0 +1,1 @@
+These two files showed how I calculated the correlation coefficient between athletic performance and draft pick. One is of all the data and the other is a query that shows it for each position and event respectively.
